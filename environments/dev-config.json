@@ -1,0 +1,49 @@
+{
+  "variables" : [
+    {
+      "name" : "MYSQL_HOST",
+      "value" : "147.79.110.179",
+      "description" : ""
+    },
+    {
+      "name" : "MYSQL_PORT",
+      "value" : "3306",
+      "description" : ""
+    },
+    {
+      "name" : "MYSQL_DB",
+      "value" : "melologistica",
+      "description" : ""
+    },
+    {
+      "name" : "MYSQL_USERNAME",
+      "value" : "bi",
+      "description" : ""
+    },
+    {
+      "name" : "MYSQL_PASSWORD",
+      "value" : "123biLogiv@!",
+      "description" : ""
+    },
+    {
+      "name" : "POST_HOST",
+      "value" : "212.85.22.186",
+      "description" : ""
+    },
+    {
+      "name" : "POST_PASSWORD",
+      "value" : "lvLhaUBtI7SDywS",
+      "description" : ""
+    },
+    {
+      "name" : "POST_USER",
+      "value" : "postgres",
+      "description" : ""
+    },
+    {
+      "name" : "POST_DB",
+      "value" : "dwh",
+      "description" : ""
+    }
+  ]
+}

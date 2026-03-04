@@ -1,0 +1,12 @@
+{
+  "MYSQL_HOST": "147.79.110.179",
+  "MYSQL_PORT": "3306",
+  "MYSQL_DB": "melologistica",
+  "MYSQL_USER": "bi",
+  "MYSQL_PASS": "123biLogiv@!",
+
+  "PG_HOST": "212.85.22.186",
+  "PG_DB": "dwh",
+  "PG_USER": "postgres",
+  "PG_PASS": "lvLhaUBtI7SDywS"
+}
